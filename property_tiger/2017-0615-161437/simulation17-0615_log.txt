@@ -1,0 +1,7 @@
+2017-0615-161437
+property_name : simulation17-0615
+input_image_directory : ..\\bmp\\circle\\circle_hole
+property_name : simulation17-0615
+filter_name : simulation17-0203 , 0203
+Rm = 3 , Rg = 3 , Rs = 0 , Rc = 100 , Cs = 10
+paramerter={3,10,100,0,0}

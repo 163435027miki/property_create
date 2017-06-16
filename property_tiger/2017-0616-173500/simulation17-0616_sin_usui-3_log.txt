@@ -1,0 +1,7 @@
+2017-0616-173500
+property_name : simulation17-0616_sin_usui-3
+input_image_directory : ..\\bmp\\circle\\3-3”g_usui_2
+property_name : simulation17-0616_sin_usui-3
+filter_name : simulation17-0203 , 0203
+Rm = 3.000000 , Rg = 3.000000 , Rs = 0.500000 , Rc = 100.000000 , Cs = 10.000000
+paramerter={3,10,100,0,0}
