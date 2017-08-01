@@ -1,7 +1,0 @@
-2017-0616-101718
-property_name : simulation17-0616_circle-2
-input_image_directory : ..\\bmp\\circle\\circle_pin
-property_name : simulation17-0616_circle-2
-filter_name : simulation17-0203 , 0203
-Rm = 3 , Rg = 3 , Rs = 0 , Rc = 100 , Cs = 10
-paramerter={3,10,100,0,0}
